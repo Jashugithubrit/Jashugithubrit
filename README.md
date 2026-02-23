@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋 I'm Sai Jashwanth Akula
 
-<!--
-**Jashugithubrit/Jashugithubrit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 AI Researcher & Developer  
+🔬 Focused on Computer Vision, Deep Learning & Real-Time ML Systems  
+🚀 Building intelligent systems that solve real-world problems  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<## 🛠️ Technical Skills
+
+### 💻 Programming
+- Python
+- SQL
+
+### 🤖 AI / ML
+- PyTorch
+- TensorFlow
+- Scikit-learn
+- OpenCV!--
+
+## 📈 Current Focus
+
+- Improving model efficiency for edge deployment  
+- Experimenting with advanced detection architectures  
+- Designing scalable AI pipelines  
+
+---
+
+## 📚 Ongoing Learning
+
+- Advanced Deep Learning Optimization  
+- Transformer Architectures  
+- Research Paper Implementation & Reproduction
+
+
+## 📫 Connect With Me
+
+- LinkedIn: (https://www.linkedin.com/in/sai-jashwanth-akula/)
+- Email: (jashwanthakula@gmail.com)
